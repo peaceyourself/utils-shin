@@ -1,6 +1,6 @@
 {
   "name": "utils-shin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "简单通用工具方法",
   "main": "index.js",
   "scripts": {
